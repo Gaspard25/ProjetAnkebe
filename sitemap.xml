@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='xsl/xml-sitemap.xsl'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/index.php</loc>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/link.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/div.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/html.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/h1h6.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/p.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/ul.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/li.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/input.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/title.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/form.php</loc>
+</url>
+<url>
+<loc>https://romaint.promo-5.codeur.online/projet-1/table.php</loc>
+</url>
+</urlset>
